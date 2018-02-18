@@ -1,0 +1,1 @@
+query --package_path %workspace%:[path to bazel]/base_workspace

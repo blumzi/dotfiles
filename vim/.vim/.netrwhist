@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/blumzi/projects/dev-it/packages/deb/gsi-libs-dev'
+let g:netrw_dirhist_2='/home/blumzi/.vim'
+let g:netrw_dirhist_3='/home/blumzi/projects/tensorflow/tensorflow/core/common_runtime/apu'
+let g:netrw_dirhist_4='/home/blumzi/projects/tensorflow/third_party/apu/apu'
+let g:netrw_dirhist_5='/home/blumzi/projects/tensorflow/tensorflow/python'
+let g:netrw_dirhist_6='/home/blumzi/projects/apucombined/import/tf'
+let g:netrw_dirhist_7='/local/home/blumzi/projects/Blib/etc'
